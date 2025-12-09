@@ -6,7 +6,7 @@ Projeto desenvolvido como parte dos estudos da Rocketseat, apresentando uma pág
 
 ## 📸 Demonstração
 
-*(Adicione aqui uma imagem ou GIF do projeto caso desejar)*
+![Imagem demonstrativa da página final](tela.png)
 
 ---
 
