@@ -46,7 +46,7 @@ O objetivo é praticar:
 1. Clone este repositório:
    
    ```bash
-   git clone https://github.com/seu-usuario/pagina-receita.git
+   git clone https://github.com/DlrRogerio/projeto-pagina-receita.git
 
 2. Abra o arquivo index.html diretamente no navegador.
 
